@@ -24,7 +24,7 @@ A simple and intuitive to-do list application with due dates, priority levels, c
 1. Clone the repository:
 
    ```bash
-   https://github.com/kamalvuppala/to-do-list.git
+   https://github.com/kamalvuppala/TO-DO-LIST1.git
 
 # link for working app
 
