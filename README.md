@@ -29,5 +29,5 @@ A simple and intuitive to-do list application with due dates, priority levels, c
 # link for working app
 
 ```bash
-  https://kamalvuppala.github.io/to-do-list/
+  https://kamalvuppala.github.io/TO-DO-LIST1/
 
